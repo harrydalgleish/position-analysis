@@ -1,5 +1,6 @@
 # position-analysis
-This repository is attended to analyse what statistics make an ideal role in every position in football.
+This repository is attended to analyse what statistics make an ideal role in every position in football. Am using FBref to gather my information.
+
 Goalkeeper
  - Goalkeeper 
  - Sweeper Keeper 
